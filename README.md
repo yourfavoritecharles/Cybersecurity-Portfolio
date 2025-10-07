@@ -19,4 +19,5 @@ I'm currently studying Cybersecurity Analytics and Operations at Penn State. I'm
 
 ### Contact Info
 LinkedIn: www.linkedin.com/in/charles-steward-a95169325
+
 Email: charles.j.steward@gmail.com
