@@ -1,0 +1,114 @@
+1:::TCP:::TCPMUX
+7:::TCP/UDP:::Echo Protocol
+9:::TCP/UDP:::Discard Protocol
+11:::TCP:::Active Users (systat)
+13:::TCP/UDP:::Daytime Protocol
+17:::TCP/UDP:::Quote of the Day (QOTD)
+19:::TCP/UDP:::Character Generator Protocol (CHARGEN)
+20:::TCP:::FTP Data
+21:::TCP:::FTP Control
+22:::TCP/UDP:::Secure Shell (SSH)
+23:::TCP/UDP:::Telnet
+25:::TCP:::Simple Mail Transfer Protocol (SMTP)
+37:::TCP/UDP:::Time Protocol
+39:::TCP:::Resource Location Protocol (RLP)
+42:::TCP/UDP:::Host Name Server (WINS)
+43:::TCP/UDP:::WHOIS
+49:::TCP/UDP:::TACACS
+50:::TCP/UDP:::Remote Mail Checking Protocol
+53:::TCP/UDP:::Domain Name System (DNS)
+54:::TCP:::XNS Clearinghouse
+55:::TCP:::ISI Graphics Language
+56:::TCP/UDP:::XNS Authentication Protocol
+58:::TCP/UDP:::XNS Mail
+63:::TCP/UDP:::whois++
+64:::TCP/UDP:::Communications Integrator (CI)
+65:::TCP/UDP:::TACACS-Database Service
+66:::TCP/UDP:::Oracle SQL*NET
+67:::UDP:::Dynamic Host Configuration Protocol (DHCP) Server
+68:::UDP:::Dynamic Host Configuration Protocol (DHCP) Client
+69:::UDP:::Trivial File Transfer Protocol (TFTP)
+70:::TCP:::Gopher
+79:::TCP/UDP:::Finger
+80:::TCP/UDP:::Hypertext Transfer Protocol (HTTP)
+81:::TCP:::HTTP-alt
+88:::TCP/UDP:::Kerberos
+101:::TCP:::NIC Host Name
+102:::TCP:::MS Exchange ISO-TSAP
+109:::TCP:::Post Office Protocol V2 (POP2)
+110:::TCP:::Post Office Protocol V3 (POP3)
+111:::TCP/UDP:::Sun Remote Procedure Call (Portmapper)
+113:::TCP:::Identification Protocol (Ident)
+115:::TCP:::Simple File Transfer Protocol (SFTP)
+119:::TCP:::Network News Transfer Protocol (NNTP)
+123:::UDP:::Network Time Protocol (NTP)
+135:::TCP/UDP:::Microsoft RPC Endpoint Mapper (EPMAP)
+137:::UDP:::NetBIOS Name Service
+138:::UDP:::NetBIOS Datagram Service
+139:::TCP:::NetBIOS Session Service
+143:::TCP:::Internet Message Access Protocol (IMAP4)
+161:::UDP:::Simple Network Management Protocol (SNMP) Agent
+162:::TCP/UDP:::Simple Network Management Protocol (SNMP) Trap
+177:::UDP:::X Display Manager Control Protocol (XDMCP)
+179:::TCP:::Border Gateway Protocol (BGP)
+194:::TCP/UDP:::Internet Relay Chat (IRC)
+199:::TCP/UDP:::SNMP Unix Multiplexer (SMUX)
+201:::TCP/UDP:::AppleTalk Routing Maintenance (RTMP)
+213:::TCP/UDP:::Internetwork Packet Exchange (IPX)
+220:::TCP/UDP:::Internet Message Access Protocol V3 (IMAP3)
+259:::TCP/UDP:::Efficient Short Remote Operations (ESRO)
+264:::TCP/UDP:::Border Gateway Multicast Protocol (BGMP)
+318:::TCP/UDP:::Time Stamp Protocol (TSP)
+381:::TCP/UDP:::HP Openview
+383:::TCP/UDP:::HP Data Alarm Manager
+389:::TCP/UDP:::Lightweight Directory Access Protocol (LDAP)
+411:::TCP/UDP:::Direct Connect Hub
+427:::TCP/UDP:::Service Location Protocol (SLP)
+443:::TCP/UDP:::Hypertext Transfer Protocol Secure (HTTPS)
+445:::TCP/UDP:::Microsoft Directory Services (SMB)
+464:::TCP/UDP:::Kerberos Password Change
+465:::TCP:::Secure Mail Transfer Protocol (SMTPS)
+497:::TCP/UDP:::Retrospect Backup
+500:::UDP:::Internet Security Association and Key Management Protocol (ISAKMP)
+514:::UDP:::Syslog
+515:::TCP:::Line Printer Daemon (LPD)
+520:::UDP:::Routing Information Protocol (RIP)
+543:::TCP:::Klogin
+544:::TCP:::Kshell
+548:::TCP:::Apple Filing Protocol (AFP)
+554:::TCP/UDP:::Real Time Streaming Protocol (RTSP)
+587:::TCP:::SMTP Submission
+593:::TCP/UDP:::Microsoft DCOM/HTTP RPC
+636:::TCP/UDP:::Lightweight Directory Access Protocol Secure (LDAPS)
+989:::TCP:::FTPS Data
+990:::TCP:::FTPS Control
+993:::TCP:::IMAP4 over SSL (IMAPS)
+995:::TCP:::POP3 over SSL (POP3S)
+1025:::TCP/UDP:::Microsoft RPC
+1080:::TCP/UDP:::SOCKS Proxy
+1194:::TCP/UDP:::OpenVPN
+1241:::TCP/UDP:::Nessus Scanner
+1311:::TCP:::Dell OpenManage
+1433:::TCP:::MS SQL Server
+1434:::UDP:::MS SQL Monitor
+1521:::TCP:::Oracle Database
+1701:::TCP/UDP:::Layer 2 Tunneling Protocol (L2TP)
+1720:::TCP:::H.323 Call Signaling
+1723:::TCP/UDP:::Point-to-Point Tunneling Protocol (PPTP)
+1812:::UDP:::RADIUS Authentication
+2049:::TCP/UDP:::Network File System (NFS)
+2100:::TCP:::Oracle XDB
+2483:::TCP/UDP:::Oracle DB (Insecure)
+2484:::TCP/UDP:::Oracle DB (Secure)
+3074:::TCP/UDP:::Xbox/Games for Windows
+3128:::TCP:::HTTP Proxy
+3268:::TCP:::Global Catalog LDAP
+3269:::TCP:::Global Catalog LDAPS
+3306:::TCP:::MySQL
+3389:::TCP:::Remote Desktop Protocol (RDP)
+3689:::TCP:::iTunes/DAAP
+5432:::TCP:::PostgreSQL
+5632:::TCP:::pcAnywhere
+5900:::TCP/UDP:::Virtual Network Computing (VNC)
+6000:::TCP:::X11
+8080:::TCP:::HTTP-alt/Proxy
