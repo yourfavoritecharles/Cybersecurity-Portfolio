@@ -1,7 +1,7 @@
 Throughout my studies at Penn State, I've refined my skills in programming languages like Python, Java, and Bash. These skills have been invaluable, and I've used them to develop numerous projects that showcase my understanding of critical cybersecurity concepts.
 
 
-##Projects:
+### Projects:
 **Packet Sniffer (Python):** Uses scapy to collect packets and display information such as the protocol, source IP address, and destination IP address
 
 **Password Generator (Python):** Randomly generates a secure password
