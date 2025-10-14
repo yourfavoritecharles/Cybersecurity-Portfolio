@@ -9,3 +9,5 @@ Throughout my studies at Penn State, I've refined my skills in programming langu
 **Password Strength Checker (Python):** Receives a user-entered password and gives the user feedback on how to make it more secure. The password is checked for its length, complexity, and if it fits into a list of common passwords
 
 **Port Scanner (Python):** Uses sys and socket to scan for open ports on the device, and if any are found, will display related information such as the port number, protocol, and name of the service
+
+**User Monitor (Bash):** Monitors user information such as groups they belong to, login history, and command history
