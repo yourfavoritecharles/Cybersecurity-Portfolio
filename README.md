@@ -16,6 +16,7 @@ I'm currently studying Cybersecurity Analytics and Operations at Penn State. I'm
 
 ### Projects
 - Completed numerous coding projects, such as port scanners, password generators, and packet sniffers
+- Refined my skills in penetration testing by completing CTFs
 
 ### Contact Info
 LinkedIn: www.linkedin.com/in/charles-steward-a95169325
