@@ -1,3 +1,4 @@
+# Coding Projects
 Throughout my studies at Penn State, I've refined my skills in programming languages like Python, Java, and Bash. These skills have been invaluable, and I've used them to develop numerous projects that showcase my understanding of critical cybersecurity concepts.
 
 
